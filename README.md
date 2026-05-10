@@ -10,6 +10,7 @@ These features include positional information, photometric measurements across m
 Target Variable --> class
 
 This is the label the model predicts. It has three categories:
+
     STAR – Objects that emit light due to nuclear fusion in their cores.
     GALAXY – Massive systems containing billions of stars, gas, and dust.
     QSO (Quasar) – Extremely luminous active galactic nuclei powered by supermassive black holes.
