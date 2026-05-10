@@ -50,6 +50,13 @@ Using measurements from these five bands allows astronomers to study the color a
 
 These photometric features are also very useful in machine learning and classification tasks, because different types of astronomical objects—such as stars, galaxies, and quasars—tend to have distinct brightness patterns across the five bands.
 
+### Observation Metadata
 
+These columns describe the telescope imaging configuration.
+
+    run – Imaging run number
+    rerun – Data processing rerun number
+    camcol – Camera column used for observation
+    field – Field number of the observation
 
 
