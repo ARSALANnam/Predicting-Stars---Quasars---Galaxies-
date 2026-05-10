@@ -59,4 +59,19 @@ These columns describe the telescope imaging configuration.
     camcol – Camera column used for observation
     field – Field number of the observation
 
+### Spectroscopic Information
 
+These features are related to spectral measurements.
+
+redshift : Measures how much the wavelength of light from the object has shifted due to cosmic expansion.
+Higher redshift typically indicates objects that are farther away (often quasars or distant galaxies).
+
+plate : Spectroscopic plate identifier.
+
+mjd : Modified Julian Date of observation.
+
+fiberid : Fiber number used during spectroscopic observation.
+
+
+## Dataset Source
+https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey/discussion?sort=hotness
