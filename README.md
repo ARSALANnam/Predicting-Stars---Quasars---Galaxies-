@@ -16,3 +16,18 @@ This is the label the model predicts. It has three categories:
     - GALAXY : Massive systems containing billions of stars, gas, and dust.
     
     - QSO (Quasar) : Extremely luminous active galactic nuclei powered by supermassive black holes.
+
+## Feature Description
+
+### Object Identifiers
+
+objid : Unique identifier for the astronomical object in the SDSS database.
+
+specobjid : Unique identifier for the spectroscopic observation.
+
+### Positional Features
+These describe the object’s location in the sky.
+
+ra (Right Ascension) : Angular distance measured eastward along the celestial equator.
+
+dec (Declination) : Angular distance north or south of the celestial equator.
